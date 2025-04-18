@@ -63,4 +63,4 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         folder: . # Укажите папку для деплоя
-        branch: gh-pages # Ветка для деплоя
+        branch: main # Ветка для деплоя
